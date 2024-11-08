@@ -1,0 +1,12 @@
+sample-ci-cd-project/
+├── .github/
+│   └── workflows/
+│       └── ci-cd.yml   # GitHub Actions CI/CD configuration
+├── app/
+│   ├── main.py         # Main application file
+│   ├── _init_.py
+├── tests/
+│   ├── test_app.py     # Unit tests
+│   ├── _init_.py
+├── requirements.txt    # Project dependencies
+└── README.md
